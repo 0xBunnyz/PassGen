@@ -2,6 +2,12 @@
 
 <p align="center">A simple command line password generator.</p>
 
+## Tested Operating Systems:
+
+- [ ] Linux
+- [ ] MacOS
+- [X] Windows
+
 ## Help
 
 
