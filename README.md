@@ -20,3 +20,11 @@
  $ gcc src/main.c -o passgen.exe
  $ passgen.exe <PASSWORD_TYPE> -length <TAMANHO>
 ```
+
+## Demonstration:
+  
+```
+$ .\PassGen.exe -all -length 50
+$ J!'54b+.j1'56)163Vati6!4"(CB(&C3)5B"S110ER+i0I1M5B
+```
+
