@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1673713922 source:c:\users\jflorent\onedrive - ntt data emeal\escritorio\c++\passgen\passwordlowercase.c
+	"PasswordLowerCase.h"
+
+1673711133 c:\users\jflorent\onedrive - ntt data emeal\escritorio\c++\passgen\passwordlowercase.h
+
+1673714024 source:c:\users\jflorent\onedrive - ntt data emeal\escritorio\c++\passgen\passwordnumber.c
+	"PasswordNumber.h"
+
+1673711201 c:\users\jflorent\onedrive - ntt data emeal\escritorio\c++\passgen\passwordnumber.h
+
+1673711674 source:c:\users\jflorent\onedrive - ntt data emeal\escritorio\c++\passgen\passwordspecial.c
+	"PasswordSpecial.h"
+
+1673711242 c:\users\jflorent\onedrive - ntt data emeal\escritorio\c++\passgen\passwordspecial.h
+
+1673711683 source:c:\users\jflorent\onedrive - ntt data emeal\escritorio\c++\passgen\passworduppercase.c
+	"PasswordUpperCase.h"
+
+1673711289 c:\users\jflorent\onedrive - ntt data emeal\escritorio\c++\passgen\passworduppercase.h
+
+1673714127 source:c:\users\jflorent\onedrive - ntt data emeal\escritorio\c++\passgen\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+	<time.h>
+	"PasswordAll.h"
+	"PasswordNumber.h"
+	"PasswordSpecial.h"
+	"PasswordLowerCase.h"
+	"PasswordUpperCase.h"
+
+1673711062 c:\users\jflorent\onedrive - ntt data emeal\escritorio\c++\passgen\passwordall.h
+
+1673713484 source:c:\users\jflorent\onedrive - ntt data emeal\escritorio\c++\passgen\passwordall.c
+	"PasswordAll.h"
+
