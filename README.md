@@ -10,6 +10,7 @@
 
 ## Help
 
+![](assets/help.PNG)
 
 ## Installation
 
