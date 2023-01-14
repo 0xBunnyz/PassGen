@@ -3,9 +3,7 @@
 <p align="center">A simple command line password generator.</p>
 
 ## Help
-```
-$ passgen.exe <PASSWORD_TYPE> -length <TAMANHO>
-```
+
 
 ## Installation
 
