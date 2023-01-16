@@ -17,12 +17,12 @@
 #include <string.h>
 #include <time.h>
 
-// Includes das funções
-#include "PasswordAll.h"
-#include "PasswordNumber.h"
-#include "PasswordSpecial.h"
-#include "PasswordLowerCase.h"
-#include "PasswordUpperCase.h"
+// Includes das funÃ§Ãµes
+#include "headers/PasswordAll.h"
+#include "headers/PasswordNumber.h"
+#include "headers/PasswordSpecial.h"
+#include "headersPasswordLowerCase.h"
+#include "headers/PasswordUpperCase.h"
 
 
 int main(int argc, char* argv[]){
